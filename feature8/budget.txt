@@ -1,0 +1,6 @@
+poner 3 pedasos de drywall = 50 soles 
+pintar la pared y el cuarto entero = 150 soles 
+poner cortina = 50 soles 
+
+=> 200 soles 
+

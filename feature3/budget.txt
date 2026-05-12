@@ -1,0 +1,3 @@
+pintar cuarto entero = 100 soles
+
+dia 3
