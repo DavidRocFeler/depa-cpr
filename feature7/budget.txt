@@ -1,5 +1,5 @@
-sacar tragaluz completo => 50 soles 
-poner tripley => 50 soles
+sacar tragaluz completo => 60 soles 
+poner tripley => 60 soles
 pintar y poner cartulinas en ventana => 100 soles
 
 total = 200 soles
